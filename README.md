@@ -1,5 +1,5 @@
 # UserSystem-java
-- User System projects helps you to add new user, update , delelte and view user 
+- User System projects offers you features to add new user, update , delelte and view user 
 
 # Project Manager
  - Maven
